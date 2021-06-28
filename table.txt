@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>A table</title>
+		</head>
+		<body>
+		<!--attributes-->
+			<table boder="1px" width="80%" align="center" bgcolor="grey">
+				<tr>
+					<th width="50%">State</th>
+					<th> Capital </th>
+				</tr>
+				<tr>
+					<td>Abia</td>
+					<td>Umuahia<td>
+				</tr>
+				<tr>
+					<td>Adamawa</td>
+					<td>Yola</td>
+				</tr>
+		</table>
+	
+	</body>
